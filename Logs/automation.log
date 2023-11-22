@@ -1,0 +1,733 @@
+09/02/2023 08:29:53 PM: INFO: xdist worker is: gw0
+09/02/2023 08:29:53 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:29:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:54 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:29:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:54 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:29:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:54 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:29:54 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:54 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:29:54 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:29:54 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:29:54 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:29:54 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:29:54 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:29:54 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:29:54 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:29:54 PM: INFO: Driver downloading response is 200
+09/02/2023 08:29:54 PM: INFO: Driver downloading response is 200
+09/02/2023 08:29:54 PM: INFO: Driver downloading response is 200
+09/02/2023 08:29:56 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:56 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw1\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:29:56 PM: INFO: xdist worker is: gw1
+09/02/2023 08:29:56 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:29:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:57 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw2\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:29:57 PM: INFO: xdist worker is: gw2
+09/02/2023 08:29:57 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:29:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:57 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:29:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:57 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:29:57 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:29:57 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:29:57 PM: INFO: Driver downloading response is 200
+09/02/2023 08:29:58 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:58 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:58 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:29:58 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:58 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:29:58 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:29:58 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:29:59 PM: INFO: Driver downloading response is 200
+09/02/2023 08:29:59 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:59 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw1\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:29:59 PM: INFO: xdist worker is: gw1
+09/02/2023 08:29:59 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:29:59 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:29:59 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw0\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:29:59 PM: INFO: xdist worker is: gw0
+09/02/2023 08:29:59 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:00 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:00 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw2\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:00 PM: INFO: xdist worker is: gw2
+09/02/2023 08:30:00 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:00 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:00 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:00 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:00 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:00 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:00 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:00 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:00 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:01 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:01 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:01 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:01 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:01 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:01 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:01 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:01 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:01 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:01 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:01 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:01 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:01 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:01 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:01 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:01 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:02 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:02 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw1\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:02 PM: INFO: xdist worker is: gw1
+09/02/2023 08:30:02 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:02 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:02 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:02 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:02 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:03 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:03 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:03 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:03 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:03 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:03 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw2\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:03 PM: INFO: xdist worker is: gw2
+09/02/2023 08:30:03 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:04 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:04 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:04 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:04 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:04 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:04 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:04 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:04 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:04 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:05 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw1\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:05 PM: INFO: xdist worker is: gw1
+09/02/2023 08:30:05 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:05 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:05 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw0\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:05 PM: INFO: xdist worker is: gw0
+09/02/2023 08:30:05 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:06 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:06 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:06 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:06 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:06 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:06 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw2\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:06 PM: INFO: xdist worker is: gw2
+09/02/2023 08:30:06 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:06 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:07 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:07 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw1\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:07 PM: INFO: xdist worker is: gw1
+09/02/2023 08:30:07 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:07 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:07 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:07 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:07 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:07 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:07 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:07 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:07 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:08 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:08 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:08 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:08 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:08 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:08 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:08 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:08 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:08 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:08 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw2\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:08 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:08 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:08 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:08 PM: INFO: xdist worker is: gw2
+09/02/2023 08:30:08 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:09 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:09 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:09 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:09 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:09 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:10 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:10 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:10 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:10 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:10 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:10 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw1\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:10 PM: INFO: xdist worker is: gw1
+09/02/2023 08:30:10 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:11 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:11 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:11 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:11 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:11 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:11 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:12 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw0\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:12 PM: INFO: xdist worker is: gw0
+09/02/2023 08:30:12 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:12 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw2\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:12 PM: INFO: xdist worker is: gw2
+09/02/2023 08:30:12 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:12 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:12 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:12 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:12 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:13 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:13 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw1\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:13 PM: INFO: xdist worker is: gw1
+09/02/2023 08:30:13 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:13 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:13 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:13 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:13 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:13 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:14 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:14 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:14 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:14 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:14 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:14 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:14 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:14 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:14 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:14 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw0\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:14 PM: INFO: xdist worker is: gw0
+09/02/2023 08:30:14 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:15 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:16 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:16 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:16 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:16 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:16 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw1\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:16 PM: INFO: xdist worker is: gw1
+09/02/2023 08:30:16 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:16 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:17 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:17 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw2\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:17 PM: INFO: xdist worker is: gw2
+09/02/2023 08:30:17 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:17 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:17 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:17 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:17 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:17 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw0\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:17 PM: INFO: xdist worker is: gw0
+09/02/2023 08:30:17 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:30:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:18 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:18 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:18 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:18 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:18 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw1\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:18 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:30:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:18 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:19 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:30:19 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:19 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:30:19 PM: INFO: Driver downloading response is 200
+09/02/2023 08:30:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:20 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw0\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:30:21 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:30:21 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\gw2\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:09 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:10 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:10 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:10 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:10 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:10 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:10 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:10 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:10 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:11 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:11 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:11 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:12 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:12 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:12 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:12 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:12 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:13 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:13 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:14 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:14 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:14 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:14 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:14 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:15 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:15 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:16 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:16 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:16 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:16 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:16 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:16 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:16 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:16 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:17 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:17 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:18 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:18 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:18 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:18 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:18 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:19 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:19 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:19 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:20 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:21 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:21 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:21 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:21 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:22 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:22 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:22 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:23 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:23 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:23 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:23 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:24 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:24 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:24 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:24 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:24 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:24 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:24 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:25 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:25 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:25 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:25 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:26 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:26 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:26 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:27 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:27 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:27 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:27 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:27 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:27 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:27 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:27 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:28 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:28 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:28 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:29 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:29 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:29 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:29 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:29 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:29 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:29 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:29 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:30 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:30 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:31 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:31 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:31 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:31 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:31 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:31 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:31 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:31 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:32 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:32 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:32 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:33 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:33 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:33 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:33 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:33 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:33 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:33 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:33 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:34 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:34 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:34 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:35 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:35 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:35 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:35 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:35 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:35 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:35 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:35 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:36 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:36 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:36 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:37 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:37 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:37 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:37 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:37 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:37 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:37 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:37 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:38 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:38 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:38 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:39 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:39 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:39 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:39 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:39 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:39 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:39 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:39 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:40 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:40 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:40 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:41 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:41 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:41 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:41 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:41 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:41 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:41 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:41 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:42 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:42 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:42 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:43 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:43 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:43 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:43 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:43 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:43 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:43 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:43 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:44 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:44 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:44 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:45 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:45 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:45 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:45 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:45 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:45 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:45 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:45 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:46 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:46 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/02/2023 08:33:46 PM: INFO: ====== WebDriver manager ======
+09/02/2023 08:33:47 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:47 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:47 PM: INFO: There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+09/02/2023 08:33:47 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:47 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/02/2023 08:33:47 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:47 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/02/2023 08:33:47 PM: INFO: Driver downloading response is 200
+09/02/2023 08:33:48 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/02/2023 08:33:48 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+09/20/2023 12:30:45 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:30:47 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:47 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:47 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:30:47 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:47 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:30:47 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:47 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:47 PM: INFO: Driver downloading response is 200
+09/20/2023 12:30:48 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:48 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:30:49 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:30:49 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:49 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:49 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:30:49 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:50 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:30:50 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:50 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:50 PM: INFO: Driver downloading response is 200
+09/20/2023 12:30:51 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:51 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:30:51 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:30:51 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:51 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:51 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:30:51 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:52 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:30:52 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:52 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:52 PM: INFO: Driver downloading response is 200
+09/20/2023 12:30:53 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:53 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:30:53 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:30:53 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:53 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:53 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:30:53 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:54 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:30:54 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:54 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:54 PM: INFO: Driver downloading response is 200
+09/20/2023 12:30:55 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:55 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:30:55 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:30:55 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:55 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:55 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:30:55 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:56 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:30:56 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:56 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:56 PM: INFO: Driver downloading response is 200
+09/20/2023 12:30:57 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:57 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:30:57 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:30:58 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:58 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:58 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:30:58 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:58 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:30:58 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:58 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:30:58 PM: INFO: Driver downloading response is 200
+09/20/2023 12:30:59 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:30:59 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:30:59 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:00 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:00 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:00 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:00 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:00 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:00 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:00 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:00 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:01 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:01 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:01 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:02 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:02 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:02 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:02 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:02 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:02 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:02 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:02 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:03 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:03 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:03 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:04 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:04 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:04 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:04 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:04 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:04 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:04 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:04 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:05 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:05 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:05 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:06 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:06 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:06 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:06 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:06 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:06 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:07 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:07 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:07 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:08 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:08 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:08 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:08 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:08 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:08 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:08 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:08 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:09 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:09 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:09 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:10 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:10 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:10 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:10 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:10 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:10 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:10 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:10 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:11 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:11 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:11 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:12 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:12 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:12 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:12 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:12 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:13 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:13 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:13 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:14 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:14 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:14 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:14 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:14 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:14 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:15 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:15 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:15 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:16 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:16 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:16 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:16 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:16 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:16 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:16 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:16 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:17 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:18 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:18 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:18 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:18 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:18 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:18 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:18 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:19 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:19 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:20 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:20 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:20 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:20 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:20 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:20 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:20 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:21 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:22 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:22 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:22 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:22 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:22 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:22 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:22 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:23 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:24 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:24 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:24 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:24 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:24 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:24 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:24 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:25 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:25 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:25 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:25 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:26 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:26 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:26 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:26 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:26 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:26 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:26 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:27 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:27 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:27 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:27 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:28 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:28 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:28 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:28 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:28 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:28 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:28 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:29 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:29 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:29 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:29 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:30 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:30 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:30 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:30 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:31 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:31 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:31 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:31 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:32 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:32 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+09/20/2023 12:31:32 PM: INFO: ====== WebDriver manager ======
+09/20/2023 12:31:33 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:33 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:33 PM: INFO: There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+09/20/2023 12:31:33 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:33 PM: INFO: WebDriver version 116.0.5845.96 selected
+09/20/2023 12:31:33 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:33 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+09/20/2023 12:31:33 PM: INFO: Driver downloading response is 200
+09/20/2023 12:31:34 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/20/2023 12:31:34 PM: INFO: Driver has been saved in cache [C:\Users\nikub\.wdm\drivers\chromedriver\win64\116.0.5845.188]
